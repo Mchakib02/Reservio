@@ -1,0 +1,36 @@
+/* General variables */
+
+:root {
+  /* Colors */
+
+  --primary-clr-blue: var(#406397);
+  --text-clr-white: var(#f0f8ff);
+  --btn-clr-orange: var(#ffa500);
+
+
+  /* fonts */
+
+  --main-font: var('Poppins', sans-serif);
+  --subtitle-font: var('Inter', sans-serif);
+
+
+  /* weight */
+
+  --title-weight: var(700);
+  --paragraph-weight: var(400);
+
+
+  /* font-size */
+  --subtitle-size: var(1.5rem);
+
+  /* media-queries */
+  @media (max-width: 768px) {
+      
+  }
+  @media (min-width: 769px) and (max-width: 1024px) {
+      
+  }
+  @media (min-width:1025px) {
+      
+  }
+}
