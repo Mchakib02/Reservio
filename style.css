@@ -121,7 +121,7 @@ textarea:not([rows]) {
     --card-width: 100%;
 }
     .header {
-        background-image: url(Assets/phone-assets/Rectangle 338.png) !important;
+        background-image: url(Assets/phone-assets/Rectangle 338.png);
         margin-top: -.16rem;
     }
     .subtitle-container {
